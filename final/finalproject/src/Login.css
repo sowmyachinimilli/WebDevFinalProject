@@ -1,0 +1,58 @@
+.login-content{
+    display: flex;
+}
+.wall{
+    margin-top: 50px;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.wall-image{
+    height: 820px;
+}
+.login{
+    background-color: green;
+}
+.login-form{
+    background-color:goldenrod;
+    margin: 55px;
+    margin-top: 75px;
+    text-align: center;
+    height: 300px;
+    width: 330px;
+}
+.login-area{
+    padding-top: 55px;
+    color: white;
+}
+.txtusername{
+    height: 28px;
+    width: 200px;
+    font-size: large;
+}
+.txtpassword{
+    margin-top: 25px;
+    height: 28px;
+    width: 200px;
+    font-size: large;
+}
+.loginbtn{
+    margin-top: 30px;
+}
+.btn-login{
+    height: 35px;
+    width: 110px;
+    font-size: medium;
+    font-weight: bold;
+    background-color: white;
+    border: 2px solid #1A8625;
+    color: #1A8625;
+}
+.btn-login:hover{
+    background-color: #1A8625;
+    color: white;
+}
+.logo{
+    margin-top: 200px;
+    margin-left: 130px;
+}

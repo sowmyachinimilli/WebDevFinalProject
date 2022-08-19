@@ -1,0 +1,27 @@
+body{
+    background-color: #1A8625;
+}
+.app{
+    font-family: sans-serif;
+}
+.store{
+    background-color: rgb(199, 246, 199);
+}
+.header{
+    display: flex;
+}
+.header-title{
+    text-align: center;
+    margin-left: 650px;
+}
+.app-title{
+    font-weight: bolder;
+    color: white;
+    font-family:fantasy;
+}
+.login_waiting,.cart_waiting{
+    font-size: x-large;
+    font-weight: bolder;
+    font-family:fantasy;
+    color: white;
+}

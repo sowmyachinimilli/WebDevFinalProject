@@ -1,0 +1,13 @@
+.btn-viewcart{
+    height: 35px;
+    width: 125px;
+    font-size: medium;
+    font-weight: bold;
+    color:#1A8625;
+    background-color: gold;
+    margin-top: 0px;
+    margin-left: 1300px;
+}
+.btn-viewcart:hover{
+    background-color: goldenrod;
+}
